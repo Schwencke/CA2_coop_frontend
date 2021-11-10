@@ -1,6 +1,6 @@
 # Frontend Startcode
 
-# includes the following ready set functionallity
+## includes the following ready set functionallity
 
 ### React-Router 
   - A navbar is ready to roll, with react-router and user-role restriction to content as well as nav-items
