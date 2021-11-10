@@ -2,6 +2,13 @@
 
 ## includes the following ready set functionallity
 
+# React-Router 
+  - A navbar is ready to roll, with react-router and user-role restriction to content as well as nav-items
+# User authentication
+  - Users are authenticated on the server when logged in, and are issued a JsonWebToken 
+  - There are templates setup with both user and admin restricted content, both with fetches from api.
+
+
 ## Available Scripts
 In the project directory, you can run:
 
