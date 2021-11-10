@@ -1,6 +1,6 @@
 ### Frontend Startcode
 
-##includes the following ready set functionallity
+## includes the following ready set functionallity
 
 ## Available Scripts
 In the project directory, you can run:
