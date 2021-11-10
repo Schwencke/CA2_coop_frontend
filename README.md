@@ -1,10 +1,10 @@
 # Frontend Startcode
 
-## includes the following ready set functionallity
+# includes the following ready set functionallity
 
-# React-Router 
+### React-Router 
   - A navbar is ready to roll, with react-router and user-role restriction to content as well as nav-items
-# User authentication
+### User authentication
   - Users are authenticated on the server when logged in, and are issued a JsonWebToken 
   - There are templates setup with both user and admin restricted content, both with fetches from api.
 
